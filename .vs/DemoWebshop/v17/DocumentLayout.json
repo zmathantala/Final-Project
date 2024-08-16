@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\selectors\\loginselectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:selectors\\loginselectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\tests\\endtoendtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:tests\\endtoendtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\tests\\registertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:tests\\registertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\base\\demobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:base\\demobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\configuration\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:configuration\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\configuration\\connectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:configuration\\connectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|c:\\users\\zmathantala\\source\\repos\\demowebshop\\configuration\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AE9CD1C-D802-4028-8DE3-55DBE63CE1E8}|DemoWebshop.csproj|solutionrelative:configuration\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 163,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginSelectors.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Selectors\\LoginSelectors.cs",
+              "RelativeDocumentMoniker": "Selectors\\LoginSelectors.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Selectors\\LoginSelectors.cs",
+              "RelativeToolTip": "Selectors\\LoginSelectors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:33:19.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterTest.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Tests\\RegisterTest.cs",
+              "RelativeDocumentMoniker": "Tests\\RegisterTest.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Tests\\RegisterTest.cs",
+              "RelativeToolTip": "Tests\\RegisterTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:32:00.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectData.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Configuration\\ConnectData.cs",
+              "RelativeDocumentMoniker": "Configuration\\ConnectData.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Configuration\\ConnectData.cs",
+              "RelativeToolTip": "Configuration\\ConnectData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:20:06.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoBase.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Base\\DemoBase.cs",
+              "RelativeDocumentMoniker": "Base\\DemoBase.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Base\\DemoBase.cs",
+              "RelativeToolTip": "Base\\DemoBase.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:24:06.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "Tests\\LoginTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:18:16.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndToEndTest.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Tests\\EndToEndTest.cs",
+              "RelativeDocumentMoniker": "Tests\\EndToEndTest.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Tests\\EndToEndTest.cs",
+              "RelativeToolTip": "Tests\\EndToEndTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:30:07.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDetails.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Configuration\\LoginDetails.cs",
+              "RelativeDocumentMoniker": "Configuration\\LoginDetails.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Configuration\\LoginDetails.cs",
+              "RelativeToolTip": "Configuration\\LoginDetails.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:20:19.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Pages\\HomePage.cs",
+              "RelativeToolTip": "Pages\\HomePage.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:28:36.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Config.json",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Configuration\\Config.json",
+              "RelativeDocumentMoniker": "Configuration\\Config.json",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Configuration\\Config.json",
+              "RelativeToolTip": "Configuration\\Config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T11:20:05.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Utility\\Utils.cs",
+              "RelativeDocumentMoniker": "Utility\\Utils.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\DemoWebshop\\Utility\\Utils.cs",
+              "RelativeToolTip": "Utility\\Utils.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:23:05.237Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
