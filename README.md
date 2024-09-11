@@ -1,1 +1,1 @@
-This My SWAG Lab framework
+This is  My SWAG Lab framework from training with Inspired Testing
